@@ -17,4 +17,4 @@ cluster_node_type       = "i3.xlarge"
 autotermination_minutes = 20
 min_workers             = 1
 max_workers             = 2
-alert_email             = kapsblab99"@gmail.com"
+alert_email             = "kapsblab99"@gmail.com"
